@@ -1,3 +1,29 @@
 body {
-    background-color: aqua;
+    background: url(./assets/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif) no-repeat top center/cover;
+}
+
+body * {
+    font-family: 'Comfortaa', cursive;
+    color: #E0C900;
+}
+
+#container {
+    width: 360px;
+    border: 1px solid red;
+    margin: auto;
+}
+
+#profile {
+    text-align: center;
+}
+
+#profile img {
+    width: 112px;
+    border-radius: 50%;
+}
+
+#profile p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
 }
