@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
  
+
+
 body {
     background: url(./assets/hp.png) no-repeat top center;
     background-size: cover;
@@ -14,10 +16,22 @@ body * {
     color: #E0C900;
 }
 
+footer {
+    padding: 24px 0;
+    text-align: center;
+    font-size: 14px;
+}
+
 #container {
     width: 360px;
     margin: 56px auto 0px auto;
     padding: 0 24px;
+}
+
+#description {
+    padding: 24px;
+    text-align: center;
+    font-size: 15px;
 }
 
 #profile {
