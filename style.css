@@ -20,6 +20,10 @@ footer {
     font-size: 14px;
 }
 
+#teste {
+    content-visibility: hidden;
+}
+
 #container {
     width: 360px;
     margin: 56px auto 0px auto;
