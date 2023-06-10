@@ -6,7 +6,7 @@
  
 body {
     background: url(./assets/hp.png) no-repeat top center;
-    background-size: auto;
+    background-size: cover;
 }
 
 body * {
