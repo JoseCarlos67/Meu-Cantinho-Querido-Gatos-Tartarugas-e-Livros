@@ -4,11 +4,9 @@
     box-sizing: border-box;
 }
  
-
-
 body {
     background: url(./assets/hp.png) no-repeat top center;
-    background-size: cover;
+    background-size: auto;
 }
 
 body * {
